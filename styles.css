@@ -28,13 +28,13 @@ body {
         }
 
         .red {
-            background-color: #ff4444;
+            background-color: rgb(255, 0, 0);
         }
 
         .green {
-            background-color: #44ff44;
+            background-color: rgb(0, 128, 0);
         }
 
         .yellow {
-            background-color: #ffff44;
+            background-color: rgb(255, 255, 0);
         }
